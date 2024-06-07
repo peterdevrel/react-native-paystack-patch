@@ -1,5 +1,5 @@
 {
-  "name": "react-native-paystack-patch",
+  "name": "@peterdevrel/react-native-paystack-patch",
   "description": "React Native Wrappers for Paystack Android & iOS Mobile SDKs",
   "main": "index.js",
   "author": "Tolu Olowu (Arttitude 360) <tolu@arttitude360.com>",
@@ -7,13 +7,13 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/PeterDevRel/react-native-paystack-patch"
+    "url": "https://github.com/peterdevrel/react-native-paystack-patch"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PeterDevRel/react-native-paystack-patch/issues"
+    "url": "https://github.com/peterdevrel/react-native-paystack-patch/issues"
   },
-  "homepage": "https://github.com/PeterDevRel/react-native-paystack-patch#readme",
+  "homepage": "https://github.com/peterdevrel/react-native-paystack-patch#readme",
   "keywords": [
     "react",
     "react-native",
